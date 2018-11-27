@@ -4,8 +4,6 @@ _Classroom link:_ <https://classroom.github.com/a/>
 
 #### Prazo: 2018-12-07 Peso: 2.2 pt
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NUIZvAe3RBg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 #### Regras
 
 - A biblioteca padrão (API) do Java não pode ser usada (`ArrayList`, `Math`, etc), incluindo os métodos de `Integer` (`parseInt`, etc) e `String`, exceto `length`, `charAt` e `equals`;
@@ -16,7 +14,7 @@ _Classroom link:_ <https://classroom.github.com/a/>
 
 ### Fellowship of The Ring
 
-Implementar a _Sociedade do Anel_, usando relacionamentos, herança, sobrecarga, comandos, consultas, etc, conforme os casos de teste a seguir. A pontuação de cada seção está anotada com comentários no formato `// --> ...`
+Implementar a [_Sociedade do Anel_]([http://youtu.be/NUIZvAe3RBg]), usando relacionamentos, herança, sobrecarga, comandos, consultas, etc, conforme os casos de teste a seguir. A pontuação de cada seção está anotada com comentários no formato `// --> ...`
 
 **IMPORTANTE: observar as restrições acima antes de implementar**
 
