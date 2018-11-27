@@ -2,7 +2,7 @@
 
 _Classroom link:_ <https://classroom.github.com/a/>
 
-#### Prazo: 2018-12-07 Peso: 2.2 pt
+#### Prazo: 2018-12-06 Peso: 2.2 pt
 
 <http://youtu.be/NUIZvAe3RBg>
 
